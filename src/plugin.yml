@@ -1,0 +1,14 @@
+api-version: 1.16
+name: ManhuntRipoff
+version: 1.0.69
+author: Een
+main: me.een.manhunt.Main
+description: Manhunt...
+
+commands:
+  select:
+    description: select runner
+  start:
+    description: starts the game
+  setdelay:
+    description: sets optional delay.
